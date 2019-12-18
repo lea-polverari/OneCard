@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis|Montserrat&display=swap');
+
+@import	url(components/container.css);
+@import	url(components/avatar.css);
+@import	url(components/buttun.css);
+@import	url(components/banner.css);
+@import	url(components/card.css);
+
+body{
+	font-family: 'Dosis', sans-serif;
+	size: 18px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif
+}
